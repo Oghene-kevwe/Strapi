@@ -1,10 +1,10 @@
 {
   "kind": "collectionType",
-  "collectionName": "music_players",
+  "collectionName": "musicas",
   "info": {
-    "singularName": "music-player",
-    "pluralName": "music-players",
-    "displayName": "music_player"
+    "singularName": "musica",
+    "pluralName": "musicas",
+    "displayName": "Musica"
   },
   "options": {
     "draftAndPublish": true
